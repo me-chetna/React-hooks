@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState, useRef } from 'react'
 import './App.css'
-import Card from './components/card.jsx'
+import Card from './components/Card.jsx'
 
 function App() {
   return (
